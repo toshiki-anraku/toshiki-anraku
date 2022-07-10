@@ -1,9 +1,11 @@
+<div>
 <a href="https://github.com/toshiki-anraku/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=toshiki-anraku&count_private=true&show_icons=true" height="200px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=toshiki-anraku&count_private=true&show_icons=true" height="150px"/>
 </a>
 <a href="https://github.com/toshiki-anraku/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshiki-anraku&layout=compact" height="200px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshiki-anraku&layout=compact" height="150px"/>
 </a>
+</div>
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/toshiki-anraku/posts.svg)](http://qiita.com/toshiki-anraku)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/toshiki-anraku/contributions.svg)](http://qiita.com/toshiki-anraku)
